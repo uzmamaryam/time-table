@@ -1,0 +1,20 @@
+h1{
+    color:darkorange;
+}
+th{
+    color: green;
+}
+.table{
+    color: blue;
+    background: tomato;
+}
+.group{
+    color: red;
+    background:yellow;
+}
+.k{
+    background-color: palevioletred;
+}
+td{
+    color:blue;
+}
